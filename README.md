@@ -1,5 +1,7 @@
 # SafeMed-R1: A Trustworthy Medical Reasoning Model
 
+![SafeMed-R1 Overview](./safemed-r1-safety-overview.png)
+
 🔍 **Overview**
 
 Modern medical LLMs can “get the answer right” on exams, but still fail to earn clinical trust:
